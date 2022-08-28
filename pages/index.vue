@@ -372,8 +372,8 @@ export default {
 }
 .selectitem:hover {
   background-color: orange;
-  cursor: pointer;
-  /* master分支上面的 */
+  /* cursor: pointer; */
+  /* 我是热修分支上面的，没有鼠标经过变小手 */
 }
 
 .shop-container {
