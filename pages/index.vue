@@ -359,7 +359,7 @@ export default {
   height: 100%;
   width: 234px;
   position: absolute;
-  left: 100px;
+  left: 101px;
   top: 0;
   z-index: 999;
   padding: 10px 0;
